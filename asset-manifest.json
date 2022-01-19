@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.7d7a5cc3.chunk.css",
+    "main.js": "/my-app/static/js/main.62ff618b.chunk.js",
+    "main.js.map": "/my-app/static/js/main.62ff618b.chunk.js.map",
+    "runtime-main.js": "/my-app/static/js/runtime-main.d8c9e1d4.js",
+    "runtime-main.js.map": "/my-app/static/js/runtime-main.d8c9e1d4.js.map",
+    "static/css/2.3b2cfc2e.chunk.css": "/my-app/static/css/2.3b2cfc2e.chunk.css",
+    "static/js/2.b6999b9a.chunk.js": "/my-app/static/js/2.b6999b9a.chunk.js",
+    "static/js/2.b6999b9a.chunk.js.map": "/my-app/static/js/2.b6999b9a.chunk.js.map",
+    "static/js/3.02defd9f.chunk.js": "/my-app/static/js/3.02defd9f.chunk.js",
+    "static/js/3.02defd9f.chunk.js.map": "/my-app/static/js/3.02defd9f.chunk.js.map",
+    "index.html": "/my-app/index.html",
+    "precache-manifest.8e4089b3e6f1c05f81863b5f5b687c24.js": "/my-app/precache-manifest.8e4089b3e6f1c05f81863b5f5b687c24.js",
+    "service-worker.js": "/my-app/service-worker.js",
+    "static/css/2.3b2cfc2e.chunk.css.map": "/my-app/static/css/2.3b2cfc2e.chunk.css.map",
+    "static/css/main.7d7a5cc3.chunk.css.map": "/my-app/static/css/main.7d7a5cc3.chunk.css.map",
+    "static/js/2.b6999b9a.chunk.js.LICENSE.txt": "/my-app/static/js/2.b6999b9a.chunk.js.LICENSE.txt",
+    "static/media/app.css": "/my-app/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8c9e1d4.js",
+    "static/css/2.3b2cfc2e.chunk.css",
+    "static/js/2.b6999b9a.chunk.js",
+    "static/css/main.7d7a5cc3.chunk.css",
+    "static/js/main.62ff618b.chunk.js"
+  ]
+}
